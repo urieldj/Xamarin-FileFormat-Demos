@@ -1,7 +1,7 @@
 ﻿using System;
-using Xamarin.Forms;
+using bryant.Forms;
 using UIKit;
-using Xamarin.Forms.Platform.iOS;
+using bryant.Forms.Platform.iOS;
 using SampleBrowser;
 using SampleBrowser.iOS;
 
